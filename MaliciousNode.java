@@ -1,10 +1,4 @@
-/* This malicious node could be thought of as being turned off.
- * It never broadcasts any transactions or responds to any
- * communication with other nodes.
- * 
- * Note that this is just one example (the simplest one) of a
- * malicious node.
- */
+
 
 import java.util.ArrayList;
 import java.util.Set;
