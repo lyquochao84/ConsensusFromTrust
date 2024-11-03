@@ -1,6 +1,6 @@
 CS 459-01 Project 2 
 
 Group members: 
-Hao Ly
+Hao Ly 
 Tristan Do
-Luke Pina
+Luke Pina (lukepina@csu.fullerton.edu)
