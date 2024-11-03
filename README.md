@@ -1,6 +1,23 @@
-CS 459-01 Project 2 
+# ConsensusFromTrust
 
-Group members: 
-Hao Ly 
-Tristan Do
-Luke Pina (lukepina@csu.fullerton.edu)
+## Table of Contents
+- [Implementation](#implementation)
+- [Course](#course)
+- [Contributors](#contributors)
+- [Language](#language)
+
+### Implementation
+- CompliantNode.java
+
+### Course
+- CPSC 459 - Section 01
+
+### Contributors
+- Hao Ly: hly66@csu.fullerton.edu
+- Tristan Do: tdo297@csu.fullerton.edu
+- Luke Pina: lukepina@csu.fullerton.edu
+
+### Language
+- Java
+
+
